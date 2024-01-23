@@ -8,3 +8,7 @@ ctx.canvas.height = ROWS * BLOCK_SIZE;
  
 // Scale blocks
 ctx.scale(BLOCK_SIZE, BLOCK_SIZE);
+addEventListner(arrow key up)
+addEventListner(arrow key down)
+addEventListner(arrow key right)
+addEventListner(arrow key left)
